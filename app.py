@@ -5,10 +5,10 @@ from tweepy import OAuthHandler
 import pandas as pd
 import os
 
-consumer_key = 'MQzBTc1EU7khKXyGZSXzIXEwu'
-consumer_secret = 'ileULPagQp0Bmo0V5FS1KeHamMIsI8jQ6EdUlVmiTLQfjcx2sP'
-access_token = '711802845511614464-JdZ9gos2V1faZAXZLHRqAIkjrwU3ESE'
-access_secret = 'yTONtgIeVgPaiBHvIEArdrOPbERXur9Nnfz4w9sT1btHw'
+consumer_key = '<your key here>'
+consumer_secret = '<your secret key here>'
+access_token = '<your access token here>'
+access_secret = 'your access secret here'
 
 directory = 'data'
 
